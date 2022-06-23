@@ -1,12 +1,12 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Indosat Ooredoo [085713964963]
-│ • Telkomsel [081319944687]
+│ • Telkomsel [+62 812-7367-7810]
+│ • Xl [+62 819-5929-3465]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • https://saweria.co/BochilGaming
-│ • Gopay [085713964963]
+│ • https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc
+│ • Gopay [+62 812-7367-7810]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
